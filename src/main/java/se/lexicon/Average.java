@@ -2,7 +2,7 @@ package se.lexicon;
 
 import java.util.Scanner;
 
-public class AverageOfThree {
+public class Average {
     public static void main(String[] args) {
         // Create a Scanner object to read input
         Scanner scanner = new Scanner(System.in);
